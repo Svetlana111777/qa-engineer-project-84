@@ -1,7 +1,7 @@
 ---
 test-cases:
   - summary: |
-      Проверка сайта на доступность
+     Проверка открытия сайта на планшете
     status: pass
 
   - summary: |
@@ -17,7 +17,7 @@ test-cases:
     status: pass
     
   - summary: |
-      Проверка просмотра информации о товаре
+      Проверка открытия карточки товара
     status: pass
 
 bugreports:
