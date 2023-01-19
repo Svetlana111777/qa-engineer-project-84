@@ -9,8 +9,8 @@
   
 - summary: |
     Проверка выбора категории товаров
-  status: fail
-
+  status: pass
+  
 - summary: |
     Проверка добавления товаров в корзину
   status: pass
