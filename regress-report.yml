@@ -22,7 +22,7 @@ test-cases:
 
 bugreports:
   - summary: |
-      Нет оптимизации мобильной версии сайта
+      Нет мобильной версии сайта
     environment: |
       Yandex  22.11.3.818 (64-bit)
       ОС Windows11 
